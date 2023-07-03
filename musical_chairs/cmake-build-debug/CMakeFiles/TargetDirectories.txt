@@ -1,0 +1,3 @@
+C:/Users/ardat/Desktop/arda.tonbil_tonbil_baris_HW6/cmake-build-debug/CMakeFiles/arda_tonbil_tonbil_baris_HW6.dir
+C:/Users/ardat/Desktop/arda.tonbil_tonbil_baris_HW6/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ardat/Desktop/arda.tonbil_tonbil_baris_HW6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
